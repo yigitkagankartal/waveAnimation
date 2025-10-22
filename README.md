@@ -28,4 +28,4 @@ Built using **HTML**, **CSS**, and **JavaScript**.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/wave-login-form.git
+git clone https://github.com/yigitkagankartal/waveAnimation.git
